@@ -1,4 +1,4 @@
-### Company Overview: Olist
+### Company Overview: Olist :
 
 Olist is a pioneering e-commerce platform that has revolutionized the Brazilian online retail landscape since its inception in 2015. Founded by Tiago Dalvi, Olist has rapidly grown to become the largest department store in Brazilian marketplaces, connecting small and medium-sized businesses across the country to a vast customer base.
 
